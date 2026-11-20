@@ -25,3 +25,18 @@ Salin dan tempel perintah berikut ke Termux atau Terminal:
 ```bash
 git clone https://github.com/alanmaulana-starvoid/A-S-WA-BOT.git && cd A-S-WA-BOT && npm install && npm start
 ```
+## Cara Mematikan & Menjalankan Kembali jika sudah berhasil
+
+CTRL + C Jika anda ingin mematikan bot
+
+Lalu Copy paste kode di bawah untuk menyalakan kembali
+
+```bash
+npm start
+```
+
+Jika anda keluar dari Termux atau terminal dan kembali ke tampilan awal masuk ke folder A-S-WA-BOT terlebih dahulu dengan cara Copy paste kode bash di bawah.
+
+```bash
+cd A-S-WA-BOT
+```
