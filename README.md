@@ -23,5 +23,5 @@
 Salin dan tempel perintah berikut ke Termux atau Terminal:
 
 ```bash
-git clone https://github.com/alanmaulana-starvoid/NAMA-REPO.git && cd NAMA-REPO && npm install && npm start
+git clone https://github.com/alanmaulana-starvoid/A-S-WA-BOT.git && cd A-S-WA-BOT && npm install && npm start
 ```
