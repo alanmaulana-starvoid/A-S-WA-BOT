@@ -1,0 +1,14 @@
+{
+  "name": "a-s-bot-wa",
+  "version": "1.2.1",
+  "description": "Bot WhatsApp utilitas & otomasi privat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "alanmaulana-starvoid",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest"
+  }
+}
