@@ -17,3 +17,11 @@
 - **Kalkulator Angka & Kata:** Mendukung operasi matematika standar (`+`, `-`, `*`, `:`) maupun penulisan angka dalam Bahasa Indonesia (contoh: `satu tambah satu`).
 - **Konverter Satuan & Mata Uang:** Mendukung konversi panjang, berat, suhu, waktu, volume, luas, ukuran data, kecepatan, serta kurs mata uang *real-time*.
 - **Peringkas & Penerjemah Teks:** Meringkas pesan panjang (minimal 5 baris) secara ekstraktif dan menerjemahkan berbagai bahasa ke Bahasa Indonesia.
+
+## 🚀 Instalasi & Jalankan
+
+Salin dan tempel perintah berikut ke Termux atau Terminal:
+
+```bash
+git clone https://github.com/alanmaulana-starvoid/NAMA-REPO.git && cd NAMA-REPO && npm install && npm start
+```
