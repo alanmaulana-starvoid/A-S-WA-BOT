@@ -23,7 +23,7 @@
 Salin dan tempel perintah berikut ke Termux atau Terminal:
 
 ```bash
-git clone https://github.com/alanmaulana-starvoid/A-S-WA-BOT.git && cd A-S-WA-BOT && npm install && npm start
+git clone https://github.com/alanmaulana-starvoid/A-S_Bot_WA.git && cd A-S_Bot_WA && npm install && npm start
 ```
 Kamu bisa mengecek semua command dengan /A-S Guide di suatu chat.
 ## Cara Mematikan & Menjalankan Kembali jika sudah berhasil
@@ -39,5 +39,5 @@ npm start
 Jika anda keluar dari Termux atau terminal dan kembali ke tampilan awal masuk ke folder A-S-WA-BOT terlebih dahulu dengan cara Copy paste kode bash di bawah.
 
 ```bash
-cd A-S-WA-BOT
+cd A-S_Bot_WA
 ```
