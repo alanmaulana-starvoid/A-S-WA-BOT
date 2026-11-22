@@ -25,7 +25,16 @@ Salin dan tempel perintah berikut ke Termux atau Terminal:
 ```bash
 git clone https://github.com/alanmaulana-starvoid/A-S_Bot_WA.git && cd A-S_Bot_WA && npm install && npm start
 ```
-Kamu bisa mengecek semua command dengan /A-S Guide di suatu chat.
+Setelah itu kamu masukkan nomor telepon punyamu.
+Kamu bisa mengecek semua command dengan
+```text
+/A-S Guide
+```
+atau
+```text
+/A-S help
+```
+di suatu chat.
 ## Cara Mematikan & Menjalankan Kembali jika sudah berhasil
 
 CTRL + C Jika anda ingin mematikan bot
@@ -36,7 +45,7 @@ Lalu Copy paste kode di bawah untuk menyalakan kembali
 npm start
 ```
 
-Jika anda keluar dari Termux atau terminal dan kembali ke tampilan awal masuk ke folder A-S-WA-BOT terlebih dahulu dengan cara Copy paste kode bash di bawah.
+Jika anda keluar dari Termux atau terminal dan kembali ke tampilan awal masuk ke folder A-S_Bot_WA terlebih dahulu dengan cara Copy paste kode bash di bawah.
 
 ```bash
 cd A-S_Bot_WA
