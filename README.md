@@ -25,6 +25,7 @@ Salin dan tempel perintah berikut ke Termux atau Terminal:
 ```bash
 git clone https://github.com/alanmaulana-starvoid/A-S-WA-BOT.git && cd A-S-WA-BOT && npm install && npm start
 ```
+Kamu bisa mengecek semua command dengan /A-S Guide di suatu chat.
 ## Cara Mematikan & Menjalankan Kembali jika sudah berhasil
 
 CTRL + C Jika anda ingin mematikan bot
