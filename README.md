@@ -1,6 +1,6 @@
 # 🤖 A-S Bot WA
 
-![Version](https://img.shields.io/badge/version-1.2.1-blue)
+![Version](https://img.shields.io/badge/version-1.4.0-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
 ![Library](https://img.shields.io/badge/Baileys-WhatsApp%20Web%20API-brightgreen)
 
